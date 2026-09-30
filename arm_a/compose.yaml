@@ -1,0 +1,15 @@
+# Template only. The compose file an Arm A run actually uses is generated per paper by
+# `arm_a.dataset.write_compose`, because the bind-mount source is the paper's own snapshot
+# directory; generated files land under artifacts/arm_a/sandbox/<paper_id>/compose.yaml.
+#
+# This copy exists so the image can be built once, up front, without a paper selected:
+#   docker compose -f arm_a/compose.yaml build
+services:
+  default:
+    image: "repro-sandbox:1"
+    build:
+      context: .
+    init: true
+    command: tail -f /dev/null
+    cpus: 2.0
+    mem_limit: 8gb

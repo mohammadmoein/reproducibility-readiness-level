@@ -1,0 +1,17 @@
+# Local environment and secrets
+.venv/
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Built locally, never committed: the catalog, logs, run output and external checkouts
+/data/
+/logs/
+/artifacts/
+/.external/
+
+# ACM PDFs are copyrighted; keep any dataset folder out of the repository
+lak_dataset/
+*.pdf
+!baseline/haim-lak/artifacts/explanations.pdf

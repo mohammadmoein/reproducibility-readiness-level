@@ -1,0 +1,507 @@
+paper_id,year,kind,doi,title
+1,2021,long,10.1145/3448139.3448140,Validity and Reliability of Student Models for Problem-Solving Activities
+2,2021,long,10.1145/3448139.3448141,The impact of social norms on students’ online learning behavior: Insights from two randomized controlled trials
+3,2021,long,10.1145/3448139.3448142,Seeding Course Forums using the Teacher-in-the-Loop
+4,2021,long,10.1145/3448139.3448143,Charting the Design and Analytics Agenda of Learnersourcing Systems
+5,2021,long,10.1145/3448139.3448144,Footprints at School: Modelling In-class Social Dynamics from Students’ Physical Positioning Traces
+6,2021,long,10.1145/3448139.3448145,"Co-Designing for Privacy, Transparency, and Trust in K-12 Learning Analytics"
+7,2021,long,10.1145/3448139.3448146,Transforming Everyday Information into Practical Analytics with Crowdsourced Assessment Tasks
+8,2021,long,10.1145/3448139.3448147,The impact of automatic text translation on classification of online discussions for social and cognitive presences
+9,2021,long,10.1145/3448139.3448148,Are you with me? Measurement of Learners’ Video-Watching Attention with Eye Tracking
+10,2021,long,10.1145/3448139.3448149,Clickstream Knowledge Tracing: Modeling How Students Answer Interactive Online Questions
+11,2021,long,10.1145/3448139.3448150,Measuring the Impact of COVID-19 Induced Campus Closure on Student Self-Regulated Learning in Physics Online Learning Modules
+12,2021,long,10.1145/3448139.3448151,What You Do Predicts How You Do: Prospectively Modeling Student Quiz Performance Using Activity Features in an Online Learning Environment
+13,2021,long,10.1145/3448139.3448152,What Classroom Audio Tells About Teaching: A Cost-effective Approach for Detection of Teaching Practices Using Spectral Audio Features
+14,2021,long,10.1145/3448139.3448153,Linguistic Skill Modeling for Second Language Acquisition
+15,2021,long,10.1145/3448139.3448154,Using Past Data to Warm Start Active Machine Learning: Does Context Matter?
+16,2021,long,10.1145/3448139.3448155,A General Multi-method Approach to Data-Driven Redesign of Tutoring Systems
+17,2021,long,10.1145/3448139.3448156,Developing an In-Application Shared View Metric to Capture Collaborative Learning in a Multi-Platform Astronomy Simulation
+18,2021,long,10.1145/3448139.3448211,A learning analytic approach to unveiling self-regulatory processes in learning tactics
+19,2021,long,10.1145/3448139.3448158,Theory-based learning analytics to explore student engagement patterns in a peer review activity
+20,2021,long,10.1145/3448139.3448159,A Social Network Analysis of Online Engagement for College Students Traditionally Underrepresented in STEM
+21,2021,long,10.1145/3448139.3448160,Analyzing the Efficacy of ECoach in Supporting Gateway Course Success Through Tailored Support
+22,2021,long,10.1145/3448139.3448161,Modeling Consistency Using Engagement Patterns in Online Courses
+23,2021,long,10.1145/3448139.3448162,A Stakeholder Informed Professional Development Framework to Support Engagement with Learning Analytics
+24,2021,long,10.1145/3448139.3448163,A network analytic approach to integrating multiple quality measures for asynchronous online discussions
+25,2021,long,10.1145/3448139.3448164,Measuring Students’ Self-Regulatory Phases in LMS with Behavior and Real-Time Self Report
+26,2021,long,10.1145/3448139.3448165,Investigating the Well-being Impacts of Educational Technologies Supported by Learning Analytics: An application of the initial phase of IEEE P7010 recommended practice to a set of cases
+27,2021,long,10.1145/3448139.3448166,Investigating Student Reflection during Game-Based Learning in Middle Grades Science
+28,2021,long,10.1145/3448139.3448167,Examining Student Effort on Help through Response Time Decomposition
+29,2021,long,10.1145/3448139.3448168,A Deep Transfer Learning Approach to Modeling Teacher Discourse in the Classroom
+30,2021,long,10.1145/3448139.3448169,Using Clickstream Data Mining Techniques to Understand and Support First-Generation College Students in an Online Chemistry Course
+31,2021,long,10.1145/3448139.3448170,Variational Deep Knowledge Tracing for Language Learning
+32,2021,long,10.1145/3448139.3448171,Using process mining to analyse self-regulated learning: a systematic analysis of four algorithms
+33,2021,long,10.1145/3448139.3448172,"Beyond First Encounters with Analytics: Questions, Techniques and Challenges in Instructors’ Sensemaking"
+34,2021,long,10.1145/3448139.3448173,Learning Skill Equivalencies Across Platform Taxonomies
+35,2021,long,10.1145/3448139.3448174,Impact of learning analytics feedback on self-regulated learning: Triangulating behavioural logs with students’ recall
+36,2021,long,10.1145/3448139.3448175,Combining Data-Driven Models and Expert Knowledge for Personalized Support to Foster Computational Thinking Skills
+37,2021,long,10.1145/3448139.3448176,Modelling Spatial Behaviours in Clinical Team Simulations using Epistemic Network Analysis: Methodology and Teacher Evaluation
+38,2021,long,10.1145/3448139.3448177,Recommendation for Effective Standardized Exam Preparation
+39,2021,long,10.1145/3448139.3448178,Detecting Disruptive Talk in Student Chat-Based Discussion within Collaborative Game-Based Learning Environments
+40,2021,long,10.1145/3448139.3448179,"Quantum of Choice: How learners’ feedback monitoring decisions, goals and self-regulated learning skills are related"
+41,2021,long,10.1145/3448139.3448180,Skills Matter: Modeling the relationship between decision making processes and collaborative problem-solving skills during Hidden Profile Tasks
+42,2021,long,10.1145/3448139.3448181,Do Instrumentation Tools Capture Self-Regulated Learning?
+43,2021,short,10.1145/3448139.3448182,Using Marginal Models to Adjust for Statistical Bias in the Analysis of State Transitions
+44,2021,short,10.1145/3448139.3448183,Learning to Work in a Materials Recovery Facility: Can Humans and Machines Learn from Each Other?
+45,2021,short,10.1145/3448139.3448184,Undergraduate Grade Prediction in Chinese Higher Education Using Convolutional Neural Networks
+46,2021,short,10.1145/3448139.3448185,Why Birds of a Feather Flock Together: Factors Triaging Students in Online Forums
+47,2021,short,10.1145/3448139.3448186,Learning Analytics as a Service for Empowered Learners: From Data Subjects to Controllers
+48,2021,short,10.1145/3448139.3448187,A Teacher-facing Learning Analytics Dashboard for Process-oriented Feedback in Online Learning
+49,2021,short,10.1145/3448139.3448188,SAINT+: Integrating Temporal Features for EdNet Correctness Prediction
+50,2021,short,10.1145/3448139.3448189,Modelling Learners in Adaptive Educational Systems: A Multivariate Glicko-based Approach
+51,2021,short,10.1145/3448139.3448190,Early Alert Systems During a Pandemic: A Simulation Study on the Impact of Concept Drift
+52,2021,short,10.1145/3448139.3448212,Student appreciation of data-driven feedback: A pilot study on OnTask
+53,2021,short,10.1145/3448139.3448192,Explorations of Designing Spatial Classroom Analytics with Virtual Prototyping
+54,2021,short,10.1145/3448139.3448193,Examining the Links between Log Data and Reflective Problem-solving Practices in An Interactive Task
+55,2021,short,10.1145/3448139.3448194,Facilitators First: Building a Tool With Facilitators to Foster a More Collaborative Makerspace Community Through Movement Traces
+56,2021,short,10.1145/3448139.3448195,Longitudinal Clusters of Online Educator Portal Access: Connecting Educator Behavior to Student Outcomes
+57,2021,short,10.1145/3448139.3448196,An Exact Algorithm for Group Formation to Promote Collaborative Learning
+58,2021,short,10.1145/3448139.3448197,Timing of Support in One-on-one Math Problem Solving Coaching: A Survival Analysis Approach with Multimodal Data
+59,2021,short,10.1145/3448139.3448198,"Who wins, who learns? Exploring gameful pedagogy as a technique to support student differences"
+60,2021,short,10.1145/3448139.3448199,How Did You Get that A? Selectivity’s Role in Rising Undergraduate Grades at a Large Public University
+61,2021,short,10.1145/3448139.3448200,Yet Another Predictive Model? Fair Predictions of Students’ Learning Outcomes in an Online Math Learning Platform
+62,2021,short,10.1145/3448139.3448201,Multimodal Data Collection Made Easy: The EZ-MMLA Toolkit: A data collection website that provides educators and researchers with easy access to multimodal data streams.
+63,2021,short,10.1145/3448139.3448202,Detecting High Orders of Cognitive Complexity in Students’ Reasoning in Argumentative Writing About Ocean Acidification
+64,2021,short,10.1145/3448139.3448203,Evaluating a Learning Analytics Dashboard to Visualize Student Self-Reports of Time-on-task: A Case Study in a Latin American University
+65,2021,short,10.1145/3448139.3448204,Which one’s more work? Predicting effective credit hours between courses
+66,2021,short,10.1145/3448139.3448205,Toward Semi-Automatic Misconception Discovery Using Code Embeddings
+67,2021,short,10.1145/3448139.3448206,Studying with Learners’ Own Music: Preliminary Findings on Concentration and Task Load
+68,2021,short,10.1145/3448139.3448207,Automatic Student Writing Evaluation: Investigating the Impact of Individual Differences on Source-Based Writing
+69,2021,short,10.1145/3448139.3448208,Metadata Analysis of Open Educational Resources
+70,2021,short,10.1145/3448139.3448209,Exploring Metrics for the Analysis of Code Submissions in an Introductory Data Science Course
+71,2021,short,10.1145/3448139.3448210,Subversive Learning Analytics
+72,2022,long,10.1145/3506860.3506861,Empowering Teachers with AI: Co-Designing a Learning Analytics Tool for Personalized Instruction in the Science Classroom
+73,2022,long,10.1145/3506860.3506862,"Scalability, Sustainability, and Ethicality of Multimodal Learning Analytics"
+74,2022,long,10.1145/3506860.3506863,How does Students’ Affect in Virtual Learning Relate to Their Outcomes? A Systematic Review Challenging the Positive-Negative Dichotomy
+75,2022,long,10.1145/3506860.3506864,Knowledge Construction and Uncertainty in Real World Argumentation: A Text Analysis Approach
+76,2022,long,10.1145/3506860.3506865,Detecting Impasse During Collaborative Problem Solving with Multimodal Learning Analytics
+77,2022,long,10.1145/3506860.3506866,An Instrument for Measuring Teachers’ Trust in AI-Based Educational Technology
+78,2022,long,10.1145/3506860.3506868,Too Fast for Their Own Good: Analyzing a Decade of Student Exercise Responses to Explore the Impact of Math Solving Photo Apps
+79,2022,long,10.1145/3506860.3506871,The effects of learning analytics hint system in supporting students problem-solving
+80,2022,long,10.1145/3506860.3506872,How do Teachers Use Open Learning Spaces? Mapping from Teachers’ Socio-spatial Data to Spatial Pedagogy
+81,2022,long,10.1145/3506860.3506873,Grade 5 Students’ Elective Replay After Experiencing Failures in Learning Fractions in an Educational Game: When Does Replay After Failures Benefit Learning?
+82,2022,long,10.1145/3506860.3506874,How can Email Interventions Increase Students’ Completion of Online Homework? A Case Study Using A/B Comparisons
+83,2022,long,10.1145/3506860.3506875,Towards an Automatic Approach for Assessing Program Competencies
+84,2022,long,10.1145/3506860.3506876,Using Learner Trace Data to Understand Metacognitive Processes in Writing from Multiple Sources
+85,2022,long,10.1145/3506860.3506877,Mining Code Submissions to Elucidate Disengagement in a Computer Science MOOC
+86,2022,long,10.1145/3506860.3506878,A Comparison of Learning Analytics Frameworks: a Systematic Review
+87,2022,long,10.1145/3506860.3506883,Understanding Distributed Tutorship in Online Language Tutoring
+88,2022,long,10.1145/3506860.3506885,The Question-driven Dashboard: How Can We Design Analytics Interfaces Aligned to Teachers’ Inquiry?
+89,2022,long,10.1145/3506860.3506886,A Penny for your Thoughts: Students and Instructors’ Expectations about Learning Analytics in Brazil
+90,2022,long,10.1145/3506860.3506887,A Multi-Level Trace Clustering Analysis Scheme for Measuring Students’ Self-Regulated Learning Behavior in a Mastery-Based Online Learning Environment
+91,2022,long,10.1145/3506860.3506894,Do Speech-Based Collaboration Analytics Generalize Across Task Contexts?
+92,2022,long,10.1145/3506860.3506895,"Beyond the Learning Analytics Dashboard: Alternative Ways to Communicate Student Data Insights Combining Visualisation, Narrative and Storytelling"
+93,2022,long,10.1145/3506860.3506896,"“Beautiful work, you're rock stars!”: Teacher Analytics to Uncover Discourse that Supports or Undermines Student Motivation, Identity, and Belonging in Classrooms"
+94,2022,long,10.1145/3506860.3506897,Giving Feedback on Feedback: An Assessment of Grader Feedback Construction on Student Performance
+95,2022,long,10.1145/3506860.3506899,Thinking with causal models: A visual formalism for collaboratively crafting assumptions
+96,2022,long,10.1145/3506860.3506900,"A Review of Learning Analytics Dashboard Research in Higher Education: Implications for Justice, Equity, Diversity, and Inclusion"
+97,2022,long,10.1145/3506860.3506902,FairEd: A Systematic Fairness Analysis Approach Applied in a Higher Educational Context
+98,2022,long,10.1145/3506860.3506904,Exploring the Politeness of Instructional Strategies from Human-Human Online Tutoring Dialogues
+99,2022,long,10.1145/3506860.3506906,A novel video recommendation system for algebra: An effectiveness evaluation study
+100,2022,long,10.1145/3506860.3506907,Semester-level Spacing but Not Procrastination Affected Student Exam Performance
+101,2022,long,10.1145/3506860.3506908,Uncovering Associations Between Cognitive Presence and Speech Acts: A Network-Based Approach
+102,2022,long,10.1145/3506860.3506912,Questioning learning analytics? Cultivating critical engagement as student automated feedback literacy
+103,2022,long,10.1145/3506860.3506913,Time-on-Task Estimation by data-driven Outlier Detection based on Learning Activities
+104,2022,long,10.1145/3506860.3506914,Tweetology of Learning Analytics: What does Twitter tell us about the trends and development of the field?
+105,2022,long,10.1145/3506860.3506922,Towards Collaborative Convergence: Quantifying Collaboration Quality with Automated Co-located Collaboration Analytics
+106,2022,long,10.1145/3506860.3506935,Modelling Co-located Team Communication from Voice Detection and Positioning Data in Healthcare Simulation
+107,2022,long,10.1145/3506860.3506939,Charting Design Needs and Strategic Approaches for Academic Analytics Systems through Co-Design
+108,2022,long,10.1145/3506860.3506972,Effects of Internal and External Conditions on Strategies of Self-regulated Learning: A Learning Analytics Study
+109,2022,long,10.1145/3506860.3506977,Towards automated content analysis of rhetorical structure of written essays using sequential content-independent features in Portuguese
+110,2022,long,10.1145/3506860.3506978,NASC: Network analytics to uncover socio-cognitive discourse of student roles
+111,2022,short,10.1145/3506860.3506867,Challenges of using auto-correction tools for language learning
+112,2022,short,10.1145/3506860.3506869,Do Gender and Race Matter? Supporting Help-Seeking with Fair Peer Recommenders in an Online Algebra Learning Platform
+113,2022,short,10.1145/3506860.3506870,Enhancing Programming Knowledge Tracing by Interacting Programming Skills and Student Code
+114,2022,short,10.1145/3506860.3506880,Needs Analysis and Prototype Evaluation of Student-facing LA Dashboard for Virtual Reality Content Creation
+115,2022,short,10.1145/3506860.3506881,Towards Multi-modal Evaluation of Eye-tracked Virtual Heritage Environment
+116,2022,short,10.1145/3506860.3506882,Educational Explainable Recommender Usage and its Effectiveness in High School Summer Vacation Assignment
+117,2022,short,10.1145/3506860.3506888,Tracking Individuals in Classroom Videos via Post-processing OpenPose Data
+118,2022,short,10.1145/3506860.3506889,Self-directed Extensive Reading Supported with GOAL System: Mining Sequential Patterns of Learning Behavior and Predicting Academic Performance
+119,2022,short,10.1145/3506860.3506890,An Exploratory Evaluation of a Collaboration Feedback Report
+120,2022,short,10.1145/3506860.3506891,Teammates Stabilize over Time in How They Evaluate Their Team Experiences
+121,2022,short,10.1145/3506860.3506892,PeerBERT: Automated Characterization of Peer Review Comments across Courses
+122,2022,short,10.1145/3506860.3506893,Socio-Semantic Network Motifs Framework for Discourse Analysis
+123,2022,short,10.1145/3506860.3506898,Towards a Pragmatic and Theory-Driven Framework for Multimodal Collaboration Feedback
+124,2022,short,10.1145/3506860.3506901,Defining Productive Struggle in ST Math: Implications for Developing Indicators of Learning Behaviors and Strategies in Digital Learning Environments
+125,2022,short,10.1145/3506860.3506903,Pilot Recommender System Enabling Students to Indirectly Help Each Other and Foster Belonging Through Reflections
+126,2022,short,10.1145/3506860.3506905,Unpacking Instructors’ Analytics Use: Two Distinct Profiles for Informing Teaching
+127,2022,short,10.1145/3506860.3506910,Participatory and Co-Design of Learning Analytics: An Initial Review of the Literature
+128,2022,short,10.1145/3506860.3506911,Effects of Technological Interventions for Self-regulation: A Control Experiment in Learnersourcing
+129,2022,short,10.1145/3506860.3506915,How Does Analysis of Handwritten Notes Provide Better Insights for Learning Behavior?
+130,2022,short,10.1145/3506860.3506916,Experimental Evidence of Performance Feedback vs. Mastery Feedback on Students’ Academic Motivation
+131,2022,short,10.1145/3506860.3506917,Hybrid Human-AI Curriculum Development for Personalised Informal Learning Environments
+132,2022,short,10.1145/3506860.3506918,Generating and Evaluating Collective Concept Maps
+133,2022,short,10.1145/3506860.3506974,Co-occurrence patterns of issues and guidelines related to ethics and privacy of learning analytics in higher education—literature review
+134,2023,long,10.1145/3576050.3576139,Predicting Item Response Theory Parameters Using Question Statements Texts
+135,2023,long,10.1145/3576050.3576052,Logs or Self-Reports? Misalignment Between Behavioral Trace Data and Surveys When Modeling Learner Achievement Goal Orientation
+136,2023,long,10.1145/3576050.3576054,SeNA: Modelling Socio-spatial Analytics on Homophily by Integrating Social and Epistemic Network Analysis
+137,2023,long,10.1145/3576050.3576055,TikTok as Learning Analytics Data: Framing Climate Change and Data Practices
+138,2023,long,10.1145/3576050.3576141,Learning analytics dashboards: What do students actually ask for?
+139,2023,long,10.1145/3576050.3576058,"""That Student Should be a Lion Tamer!"" StressViz: Designing a Stress Analytics Dashboard for Teachers"
+140,2023,long,10.1145/3576050.3576061,Predictive Learning Analytics and University Teachers: Usage and perceptions three years post implementation
+141,2023,long,10.1145/3576050.3576062,Each Encounter Counts: Modeling Language Learning and Forgetting
+142,2023,long,10.1145/3576050.3576063,How Do Teachers Use Dashboards Enhanced with Data Storytelling Elements According to their Data Visualisation Literacy Skills?
+143,2023,long,10.1145/3576050.3576064,Learner-centred Analytics of Feedback Content in Higher Education
+144,2023,long,10.1145/3576050.3576144,How to Build More Generalizable Models for Collaboration Quality? Lessons Learned from Exploring Multi-Context Audio-Log Datasets using Multimodal Learning Analytics
+145,2023,long,10.1145/3576050.3576067,Empowering Teacher Learning with AI: Automated Evaluation of Teacher Attention to Student Ideas during Argumentation-focused Discussion
+146,2023,long,10.1145/3576050.3576068,Are They Learning or Guessing? Investigating Trial-and-Error Behavior with Limited Test Attempts
+147,2023,long,10.1145/3576050.3576070,"Names, Nicknames, and Spelling Errors: Protecting Participant Identity in Learning Analytics of Online Discussions"
+148,2023,long,10.1145/3576050.3576071,How to Open Science: A Principle and Reproducibility Review of the Learning Analytics and Knowledge Conference
+149,2023,long,10.1145/3576050.3576073,Impact of Non-Cognitive Interventions on Student Learning Behaviors and Outcomes: An analysis of seven large-scale experimental inventions
+150,2023,long,10.1145/3576050.3576145,"CVPE: A Computer Vision Approach for Scalable and Privacy-Preserving Socio-spatial, Multimodal Learning Analytics"
+151,2023,long,10.1145/3576050.3576076,METS: Multimodal Learning Analytics of Embodied Teamwork Learning
+152,2023,long,10.1145/3576050.3576077,Student Profiles of Change in a University Course: A Complex Dynamical Systems Perspective
+153,2023,long,10.1145/3576050.3576079,Effects of Modalities in Detecting Behavioral Engagement in Collaborative Game-Based Learning
+154,2023,long,10.1145/3576050.3576081,Insights into undergraduate pathways using course load analytics
+155,2023,long,10.1145/3576050.3576084,Do Associations Between Mind Wandering and Learning from Complex Texts Vary by Assessment Depth and Time?
+156,2023,long,10.1145/3576050.3576085,The current state of using learning analytics to measure and support K-12 student engagement: A scoping review
+157,2023,long,10.1145/3576050.3576089,When the Tutor Becomes the Student: Design and Evaluation of Efficient Scenario-based Lessons for Tutors
+158,2023,long,10.1145/3576050.3576091,Investigating Student's Problem-solving Approaches in MOOCs using Natural Language Processing
+159,2023,long,10.1145/3576050.3576092,Lost in Translation: Determining the Generalizability of Temporal Models across Course Contexts&nbsp;
+160,2023,long,10.1145/3576050.3576093,Instructor-in-the-Loop Exploratory Analytics to Support Group Work
+161,2023,long,10.1145/3576050.3576095,When to Intervene? Utilizing Two Facets of Temporality in Students’ SRL Processes in a Programming Course
+162,2023,long,10.1145/3576050.3576096,Towards more replicable content analysis for learning analytics
+163,2023,long,10.1145/3576050.3576098,Using Transformer Language Models to Validate Peer-Assigned Essay Scores in Massive Open Online Courses (MOOCs)
+164,2023,long,10.1145/3576050.3576100,"Using Teacher Dashboards to Customize Lesson Plans for a Problem-Based, Middle School STEM Curriculum"
+165,2023,long,10.1145/3576050.3576101,Multimodal Predictive Student Modeling with Multi-Task Transfer Learning
+166,2023,long,10.1145/3576050.3576147,Trusting the Explainers: Teacher Validation of Explainable Artificial Intelligence for Course Design
+167,2023,long,10.1145/3576050.3576103,The Doer Effect at Scale: Investigating Correlation and Causation Across Seven Courses
+168,2023,long,10.1145/3576050.3576105,Instruction-Embedded Assessment for Reading Ability in Adaptive Mathematics Software
+169,2023,long,10.1145/3576050.3576106,Online help-seeking occurring in multiple computer-mediated conversations affects grades in an introductory programming course
+170,2023,long,10.1145/3576050.3576108,Predicting Co-occurring Emotions in MetaTutor when Combining Eye-Tracking and Interaction Data from Separate User Studies
+171,2023,long,10.1145/3576050.3576109,"Identification, Exploration, and Remediation: Can Teachers Predict Common Wrong Answers?"
+172,2023,long,10.1145/3576050.3576110,"Learning Analytics and Stakeholder Inclusion: What do We Mean When We Say ""Human-Centered""?"
+173,2023,long,10.1145/3576050.3576112,Towards Automated Analysis of Rhetorical Categories in Students Essay Writings using Bloom’s Taxonomy
+174,2023,long,10.1145/3576050.3576113,Recurrence Quantification Analysis of Eye Gaze Dynamics During Team Collaboration
+175,2023,long,10.1145/3576050.3576148,Do Not Trust a Model Because It is Confident: Uncovering and Characterizing Unknown Unknowns to Student Success Predictors in Online-Based Learning
+176,2023,long,10.1145/3576050.3576115,Using a Webcam Based Eye-tracker to Understand Students’ Thought Patterns and Reading Behaviors in Neurodivergent Classrooms
+177,2023,long,10.1145/3576050.3576116,The Student Zipf Theory: Inferring Latent Structures in Open-Ended Student Work To Help Educators
+178,2023,long,10.1145/3576050.3576117,Identifying Gaze Behavior Evolution via Temporal Fully-Weighted Scanpath Graphs
+179,2023,long,10.1145/3576050.3576149,"Protected Attributes Tell Us Who, Behavior Tells Us How: A Comparison of Demographic and Behavioral Oversampling for Fair Student Success Modeling"
+180,2023,long,10.1145/3576050.3576119,Moral Machines or Tyranny of the Majority? A Systematic Review on Predictive Bias in Education
+181,2023,long,10.1145/3576050.3576152,Towards explainable prediction of essay cohesion in Portuguese and English
+182,2023,long,10.1145/3576050.3576122,Can We Empower Attentive E-reading with a Social Robot? An Introductory Study with a Novel Multimodal Dataset and Deep Learning Approaches
+183,2023,short,10.1145/3576050.3576053,"Automated, content-focused feedback for a writing-to-learn assignment in an undergraduate organic chemistry course"
+184,2023,short,10.1145/3576050.3576153,Fostering Privacy Literacy among High School Students by Leveraging Social Media Interaction and Learning Traces in the Classroom
+185,2023,short,10.1145/3576050.3576142,The Role of Gender in Students’ Privacy Concerns about Learning Analytics: Evidence from five countries
+186,2023,short,10.1145/3576050.3576060,Embracing Trustworthiness and Authenticity in the Validation of Learning Analytics Systems
+187,2023,short,10.1145/3576050.3576143,Impact of window size on the generalizability of collaboration quality estimation models developed using Multimodal Learning Analytics
+188,2023,short,10.1145/3576050.3576069,Exploring the Feedback Provision of Mentors and Clients for Teams in Work-Integrated Learning Environments
+189,2023,short,10.1145/3576050.3576072,What do students want to know while taking massive open online courses? Examining massive open online course students’ needs based on online forum discussions from the Universal Design for Learning approach
+190,2023,short,10.1145/3576050.3576074,An Integrated Model of Feedback and Assessment: From fine grained to holistic programmatic review
+191,2023,short,10.1145/3576050.3576078,Detecting the Disengaged Reader - Using Scrolling Data to Predict Disengagement during Reading
+192,2023,short,10.1145/3576050.3576146,Cluster-Based Performance of Student Dropout Prediction as a Solution for Large Scale Models in a Moodle LMS
+193,2023,short,10.1145/3576050.3576082,Are We on the Same Page? Modeling Linguistic Synchrony and Math Literacy in Mathematical Discussions
+194,2023,short,10.1145/3576050.3576083,Advancing leaner profiles with learning analytics: A scoping review of current trends and challenges
+195,2023,short,10.1145/3576050.3576086,Instructional Strategies and Student eTextbook Reading
+196,2023,short,10.1145/3576050.3576087,A Dashboard to Provide Instructors with Automated Feedback on Students’ Peer Review Comments
+197,2023,short,10.1145/3576050.3576088,Joint Choice Time: A Metric for Better Understanding Collaboration in Interactive Museum Exhibits
+198,2023,short,10.1145/3576050.3576090,Informing Expert Feature Engineering through Automated Approaches: Implications for Coding Qualitative Classroom Video Data
+199,2023,short,10.1145/3576050.3576094,Using submission log data to investigate novice programmers’ employment of debugging strategies
+200,2023,short,10.1145/3576050.3576097,"Blockly-DS: Blocks Programming for Data Science with Visual, Statistical, Descriptive and Predictive Analysis"
+201,2023,short,10.1145/3576050.3576099,Turn-taking analysis of small group collaboration in an engineering discussion classroom
+202,2023,short,10.1145/3576050.3576104,Predicting Students’ Algebra I Performance using Reinforcement Learning with Multi-Group Fairness
+203,2023,short,10.1145/3576050.3576107,How Students’ Emotion and Motivation Changes After Viewing Dashboards with Varied Social Comparison Group: A Qualitative Study
+204,2023,short,10.1145/3576050.3576111,Leveraging LMS Logs to Analyze Self-Regulated Learning Behaviors in a Maker-based Course
+205,2024,long,10.1145/3636555.3636844,Equity-Forward Learning Analytics: Designing a Dashboard to Support Marginalized Student Success
+206,2024,long,10.1145/3636555.3636846,Automating Human Tutor-Style Programming Feedback: Leveraging GPT-4 Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation
+207,2024,long,10.1145/3636555.3636847,SLADE: A Method for Designing Human-Centred Learning Analytics Systems
+208,2024,long,10.1145/3636555.3636848,Novice programmers inaccurately monitor the quality of their work and their peers’ work in an introductory computer science course
+209,2024,long,10.1145/3636555.3636849,Improving Model Fairness with Time-Augmented Bayesian Knowledge Tracing
+210,2024,long,10.1145/3636555.3636850,Feedback on Feedback: Comparing Classic Natural Language Processing and Generative AI to Evaluate Peer Feedback
+211,2024,long,10.1145/3636555.3636851,Long-Term Prediction from Topic-Level Knowledge and Engagement in Mathematics Learning
+212,2024,long,10.1145/3636555.3636852,Towards Comprehensive Monitoring of Graduate Attribute Development: A Learning Analytics Approach in Higher Education
+213,2024,long,10.1145/3636555.3636855,Epistemic Network Analysis for End-users: Closing the Loop in the Context of Multimodal Analytics for Collaborative Team Learning
+214,2024,long,10.1145/3636555.3636856,Generative Artificial Intelligence in Learning Analytics: Contextualising Opportunities and Challenges through the Learning Analytics Cycle
+215,2024,long,10.1145/3636555.3636857,TeamSlides: a Multimodal Teamwork Analytics Dashboard for Teacher-guided Reflection in a Physical Learning Space
+216,2024,long,10.1145/3636555.3636858,Adaptation of the Multi-Concept Multivariate Elo Rating System to Medical Students' Training Data
+217,2024,long,10.1145/3636555.3636861,"Millions of Views, But Does It Promote Learning? Analyzing Popular SciComm Production Styles Regarding Learning Success, User Behavior and Perception"
+218,2024,long,10.1145/3636555.3636862,"Mirror mirror on the wall, what is missing in my pedagogical goals? The Impact of an AI-Driven Feedback System on the Quality of Teacher-Created Learning Designs"
+219,2024,long,10.1145/3636555.3636864,Neural Epistemic Network Analysis: Combining Graph Neural Networks and Epistemic Network Analysis to Model Collaborative Processes
+220,2024,long,10.1145/3636555.3636865,Data Storytelling in Learning Analytics? A Qualitative Investigation into Educators’ Perceptions of Benefits and Risks
+221,2024,long,10.1145/3636555.3636866,Evidence-centered Assessment for Writing with Generative AI
+222,2024,long,10.1145/3636555.3636867,"The Relation Among Gender, Language, and Posting Type in Online Chemistry Course Discussion Forums"
+223,2024,long,10.1145/3636555.3636868,Synthetic Dataset Generation for Fairer Unfairness Research
+224,2024,long,10.1145/3636555.3636869,Hierarchical Dependencies in Classroom Settings Influence Algorithmic Bias Metrics
+225,2024,long,10.1145/3636555.3636871,"The relationships among school engagement, students' emotions, and academic performance in an elementary online learning"
+226,2024,long,10.1145/3636555.3636874,The Unspoken Aspect of Socially Shared Regulation in Collaborative Learning: AI-Driven Learning Analytics Unveiling ‘Silent Pauses’
+227,2024,long,10.1145/3636555.3636875,Exploring Confusion and Frustration as Non-linear Dynamical Systems
+228,2024,long,10.1145/3636555.3636876,Does Difficulty even Matter? Investigating Difficulty Adjustment and Practice Behavior in an Open-Ended Learning Task
+229,2024,long,10.1145/3636555.3636880,The Sequence Matters in Learning - A Systematic Literature Review
+230,2024,long,10.1145/3636555.3636881,Learner Modeling and Recommendation of Learning Resources using Personal Knowledge Graphs
+231,2024,long,10.1145/3636555.3636883,Large language model augmented exercise retrieval for personalized language learning
+232,2024,long,10.1145/3636555.3636884,"Have Learning Analytics Dashboards Lived Up to the Hype? A Systematic Review of Impact on Students' Achievement, Motivation, Participation and Attitude"
+233,2024,long,10.1145/3636555.3636885,Understanding engagement through game learning analytics and design elements: Insights from a word game case study
+234,2024,long,10.1145/3636555.3636886,How do visualizations and automated personalized feedback engage professional learners in a Learning Analytics Dashboard?
+235,2024,long,10.1145/3636555.3636887,Analytics of scaffold compliance for self-regulated learning
+236,2024,long,10.1145/3636555.3636888,Student Effort and Progress Learning Analytics Data Inform Teachers’ SEL Discussions in Math Class
+237,2024,long,10.1145/3636555.3636890,Investigating Algorithmic Bias on Bayesian Knowledge Tracing and Carelessness Detectors
+238,2024,long,10.1145/3636555.3636891,Which Planning Tactics Predict Online Course Completion?
+239,2024,long,10.1145/3636555.3636892,Revealing Networks: Understanding Effective Teacher Practices in AI-Supported Classrooms using Transmodal Ordered Network Analysis
+240,2024,long,10.1145/3636555.3636893,Shaping and evaluating a system for affective computing in online higher education using a participatory design and the system usability scale
+241,2024,long,10.1145/3636555.3636894,Harnessing Transparent Learning Analytics for Individualized Support through Auto-detection of Engagement in Face-to-Face Collaborative Learning
+242,2024,long,10.1145/3636555.3636896,Improving Student Learning with Hybrid Human-AI Tutoring: A Three-Study Quasi-Experimental Investigation
+243,2024,long,10.1145/3636555.3636897,Can Crowdsourcing Platforms Be Useful for Educational Research?
+244,2024,long,10.1145/3636555.3636898,Finding Paths for Explainable MOOC Recommendation: A Learner Perspective
+245,2024,long,10.1145/3636555.3636900,Analytics of Planning Behaviours in Self-Regulated Learning: Links with Strategy Use and Prior Knowledge
+246,2024,long,10.1145/3636555.3636902,Gaining Insights into Course Difficulty Variations Using Item Response Theory
+247,2024,long,10.1145/3636555.3636904,The Effect of Assistance on Gamers: Assessing The Impact of On-Demand Hints \&amp; Feedback Availability on Learning for Students Who Game the System
+248,2024,long,10.1145/3636555.3636905,Predicting challenge moments from students' discourse: A comparison of GPT-4 to two traditional natural language processing approaches
+249,2024,long,10.1145/3636555.3636906,Temporal and Between-Group Variability in College Dropout Prediction
+250,2024,long,10.1145/3636555.3636907,Discovering Players’ Problem-Solving Behavioral Characteristics in a Puzzle Game through Sequence Mining
+251,2024,long,10.1145/3636555.3636908,Multiple Choice vs. Fill-In Problems: The Trade-off Between Scalability and Learning
+252,2024,long,10.1145/3636555.3636910,Prompt-based and Fine-tuned GPT Models for Context-Dependent and -Independent Deductive Coding in Social Annotation
+253,2024,long,10.1145/3636555.3636911,Using Think-Aloud Data to Understand Relations between Self-Regulation Cycle Characteristics and Student Performance in Intelligent Tutoring Systems
+254,2024,long,10.1145/3636555.3636912,Analyzing Students Collaborative Problem-Solving Behaviors in Synergistic STEM+C Learning
+255,2024,long,10.1145/3636555.3636913,Quantifying Collaborative Complex Problem Solving in Classrooms using Learning Analytics
+256,2024,long,10.1145/3636555.3636915,Measurement of Self-regulated Learning: Strategies for mapping trace data to learning processes and downstream analysis implications
+257,2024,long,10.1145/3636555.3636917,Computational Modeling of Collaborative Discourse to Enable Feedback and Reflection in Middle School Classrooms
+258,2024,long,10.1145/3636555.3636918,Heterogenous Network Analytics of Small Group Teamwork: Using Multimodal Data to Uncover Individual Behavioral Engagement Strategies
+259,2024,long,10.1145/3636555.3636919,Comparing Authoring Experiences with Spreadsheet Interfaces vs GUIs
+260,2024,long,10.1145/3636555.3636920,Unveiling Goods and Bads: A Critical Analysis of Machine Learning Predictions of Standardized Test Performance in Early Childhood Education
+261,2024,long,10.1145/3636555.3636921,Scaling While Privacy Preserving: A Comprehensive Synthetic Tabular Data Generation and Evaluation in Learning Analytics
+262,2024,long,10.1145/3636555.3636924,Does Feedback on Talk Time Increase Student Engagement? Evidence from a Randomized Controlled Trial on a Math Tutoring Platform
+263,2024,long,10.1145/3636555.3636926,CTAM4SRL: A Consolidated Temporal Analytic Method for Analysis of Self-Regulated Learning
+264,2024,long,10.1145/3636555.3636927,Towards Improving Rhetorical Categories Classification and Unveiling Sequential Patterns in Students' Writing
+265,2024,long,10.1145/3636555.3636928,Effecti-Net: A Multimodal Framework and Database for Educational Content Effectiveness Analysis
+266,2024,long,10.1145/3636555.3636930,Data Storytelling Editor: A Teacher-Centred Tool for Customising Learning Analytics Dashboard Narratives
+267,2024,long,10.1145/3636555.3636933,"Feedback, Control, or Explanations? Supporting Teachers With Steerable Distractor-Generating AI"
+268,2024,long,10.1145/3636555.3636934,Measuring Affective and Motivational States as Conditions for Cognitive and Metacognitive Processing in Self-Regulated Learning
+269,2024,long,10.1145/3636555.3636936,Contexts Matter but How? Course-Level Correlates of Performance and Fairness Shift in Predictive Model Transfer
+270,2024,long,10.1145/3636555.3636937,Human-tutor Coaching Technology (HTCT): Automated Discourse Analytics in a Coached Tutoring Model
+271,2024,short,10.1145/3636555.3636845,Demonstrating the impact of study regularity on academic success using learning analytics
+272,2024,short,10.1145/3636555.3636853,Bridging Learnersourcing and AI: Exploring the Dynamics of Student-AI Collaborative Feedback Generation
+273,2024,short,10.1145/3636555.3636854,Using Multimodal Learning Analytics to Examine Learners’ Responses to Different Types of Background Music during Reading Comprehension
+274,2024,short,10.1145/3636555.3636859,Architectural Adaptation and Regularization of Attention Networks for Incremental Knowledge Tracing
+275,2024,short,10.1145/3636555.3636860,Automated Feedback for Student Math Responses Based on Multi-Modality and Fine-Tuning
+276,2024,short,10.1145/3636555.3636863,A Fair Clustering Approach to Self-Regulated Learning Behaviors in a Virtual Learning Environment
+277,2024,short,10.1145/3636555.3636870,Understanding Knowledge Convergence in a Cross-cultural Online Context: An Individual and Collective Approach
+278,2024,short,10.1145/3636555.3636872,Field report for Platform mBox: Designing an Open MMLA Platform
+279,2024,short,10.1145/3636555.3636873,What Fairness Metrics Can Really Tell You: A Case Study in the Educational Domain
+280,2024,short,10.1145/3636555.3636877,Bringing Collaborative Analytics using Multimodal Data to Masses: Evaluation and Design Guidelines for Developing a MMLA System for Research and Teaching Practices in CSCL
+281,2024,short,10.1145/3636555.3636878,The Role of Gender in Citation Practices of Learning Analytics Research
+282,2024,short,10.1145/3636555.3636879,Automated Discourse Analysis via Generative Artificial Intelligence
+283,2024,short,10.1145/3636555.3636882,Kattis vs ChatGPT: Assessment and Evaluation of Programming Tasks in the Age of Artificial Intelligence
+284,2024,short,10.1145/3636555.3636889,Code Soliloquies for Accurate Calculations in Large Language Models
+285,2024,short,10.1145/3636555.3636895,Analyzing Student Attention and Acceptance of Conversational AI for Math Learning: Insights from a Randomized Controlled Trial
+286,2024,short,10.1145/3636555.3636899,Estimating the Causal Treatment Effect of Unproductive Persistence
+287,2024,short,10.1145/3636555.3636901,An Investigation of Automatically Generated Feedback on Student Behavior and Learning
+288,2024,short,10.1145/3636555.3636903,Extracting Course Similarity Signal using Subword Embeddings
+289,2024,short,10.1145/3636555.3636909,Expert Features for a Student Support Recommendation Contextual Bandit Algorithm
+290,2024,short,10.1145/3636555.3636914,"Probing Actionability in Learning Analytics: The Role of Routines, Timing, and Pathways"
+291,2024,short,10.1145/3636555.3636916,To what extent do responses to a single survey question provide insights into students' sense of belonging?
+292,2024,short,10.1145/3636555.3636922,Minds and Machines Unite: Deciphering Social and Cognitive Dynamics in Collaborative Problem Solving with AI
+293,2024,short,10.1145/3636555.3636923,Exploring Student Expectations and Confidence in Learning Analytics
+294,2024,short,10.1145/3636555.3636929,Gamification and Deadending: Unpacking Performance Impacts in Algebraic Learning
+295,2024,short,10.1145/3636555.3636931,Navigating (Dis)agreement: AI Assistance to Uncover Peer Feedback Discrepancies
+296,2024,short,10.1145/3636555.3636932,Needs Analysis of Learning Analytics Dashboard for College Teacher Online Professional Learning in an International Training Initiative for the Global South
+297,2024,short,10.1145/3636555.3636935,Unveiling Synchrony of Learners’ Multimodal Data in Collaborative Maker Activities
+298,2024,short,10.1145/3636555.3636938,Places to intervene in complex learning systems
+299,2024,short,10.1145/3636555.3636939,A Case Study on University Student Online Learning Patterns Across Multidisciplinary Subjects
+300,2025,long,10.1145/3706468.3706470,Designing Visual Explanations and Learner Controls to Engage Adolescents in AI-Supported Exercise Selection
+301,2025,long,10.1145/3706468.3706471,Platform-based Adaptive Experimental Research in Education: Lessons Learned from The Digital Learning Challenge
+302,2025,long,10.1145/3706468.3706472,One Size Does Not Fit All: Considerations when using Webcam-Based Eye Tracking to Models of Neurodivergent Learners’ Attention and Comprehension
+303,2025,long,10.1145/3706468.3706473,"Diversity Considerations in Team Formation Design, Algorithm, and Measurement"
+304,2025,long,10.1145/3706468.3706474,Scaling Up Collaborative Dialogue Analysis: An AI-driven Approach to Understanding Dialogue Patterns in Computational Thinking Education
+305,2025,long,10.1145/3706468.3706475,"TeamTeachingViz: Benefits, Challenges, and Ethical Considerations of Using a Multimodal Analytics Dashboard to Support Team Teaching Reflection"
+306,2025,long,10.1145/3706468.3706476,From Complexity to Parsimony: Integrating Latent Class Analysis to Uncover Multimodal Learning Patterns in Collaborative Learning
+307,2025,long,10.1145/3706468.3706479,Feedback on Feedback: Student’s Perceptions for Feedback from Teachers and Few-Shot LLMs
+308,2025,long,10.1145/3706468.3706481,Automatic Short Answer Grading in the LLM Era: Does GPT-4 with Prompt Engineering beat Traditional Models?
+309,2025,long,10.1145/3706468.3706482,Towards Fair Assessments: A Machine Learning-based Approach for Detecting Cheating in Online Assessments
+310,2025,long,10.1145/3706468.3706483,Got It! Prompting Readability Using ChatGPT to Enhance Academic Texts for Diverse Learning Needs
+311,2025,long,10.1145/3706468.3706485,Evaluating the Impact of Data Augmentation on Predictive Model Performance
+312,2025,long,10.1145/3706468.3706486,Towards Better Course Recommendations: Integrating Multi-Perspective Meta-Paths and Knowledge Graphs
+313,2025,long,10.1145/3706468.3706487,A Novel Approach to Scalable and Automatic Topic-Controlled Question Generation in Education
+314,2025,long,10.1145/3706468.3706488,Comparing Student Preferences for AI-Generated and Peer-Generated Feedback in AI-driven Formative Peer Assessment
+315,2025,long,10.1145/3706468.3706489,"The lack of generalisability in learning analytics research: why, how does it matter, and where to?"
+316,2025,long,10.1145/3706468.3706493,Advancing privacy in learning analytics using differential privacy
+317,2025,long,10.1145/3706468.3706495,"Refocusing the lens through which we view affect dynamics: The Skills, Difficulty, Value, Efficacy and Time Model"
+318,2025,long,10.1145/3706468.3706496,Language Models and Dialect Differences
+319,2025,long,10.1145/3706468.3706497,The Company You Keep: Refining Neural Epistemic Network Analysis
+320,2025,long,10.1145/3706468.3706499,"Examining the Relationship between Math Anxiety, Effort, and Learning Outcomes Using Latent Class Analysis"
+321,2025,long,10.1145/3706468.3706500,Test Case-Informed Knowledge Tracing for Open-ended Coding Tasks
+322,2025,long,10.1145/3706468.3706501,Exploring Knowledge Tracing in Tutor-Student Dialogues using LLMs
+323,2025,long,10.1145/3706468.3706502,Self-regulated Learning Processes in Secondary Education: A Network Analysis of Trace-based Measures
+324,2025,long,10.1145/3706468.3706503,Enhancing Motivation and Learning in Primary School History Classrooms: The Impact of Virtual Reality
+325,2025,long,10.1145/3706468.3706504,Analytics of Temporal Patterns of Self-regulated Learners: A Time Series Approach
+326,2025,long,10.1145/3706468.3706507,Human-AI Collaborative Essay Scoring: A Dual-Process Framework with LLMs
+327,2025,long,10.1145/3706468.3706508,Prescriptive analytics motivating distance learning students to take remedial action: A case study of a student-facing dashboard
+328,2025,long,10.1145/3706468.3706509,"Exploring students’ epistemic orientation, learning trajectories, and outcomes"
+329,2025,long,10.1145/3706468.3706510,Scaling goal-setting interventions in higher education using a conversational agent: Examining the effectiveness of guidance and adaptive feedback
+330,2025,long,10.1145/3706468.3706511,Investigating Validity and Generalisability in Trace-Based Measurement of Self-Regulated Learning: A Multidisciplinary Study
+331,2025,long,10.1145/3706468.3706513,"Transition Network Analysis: A Novel Framework for Modeling, Visualizing, and Identifying the Temporal Patterns of Learners and Learning Processes"
+332,2025,long,10.1145/3706468.3706514,Will they or won't they make it in time? The role of contextual and behavioral predictors in reaching deadlines of mandatory assignments
+333,2025,long,10.1145/3706468.3706516,Combining Large Language Models with Tutoring System Intelligence: A Case Study in Caregiver Homework Support
+334,2025,long,10.1145/3706468.3706518,Evaluating Learning Outcomes Through Curriculum Analytics: Actionable Insights for Curriculum Decision-making: A Design-based research approach to assess learning outcomes in higher education
+335,2025,long,10.1145/3706468.3706519,Talking in Sync: How Linguistic Synchrony Shapes Teacher-Student Conversation in English as a Second Language Tutoring Environment
+336,2025,long,10.1145/3706468.3706520,"Decoding Learning Design Decisions: A Cluster Analysis of 12,749 Teaching and Learning Activities"
+337,2025,long,10.1145/3706468.3706521,XAI Reveals the Causes of Attention Deficit Hyperactivity Disorder (ADHD) Bias in Student Performance Prediction
+338,2025,long,10.1145/3706468.3706522,Collaborative Game-based Learning Analytics: Predicting Learning Outcomes from Game-based Collaborative Problem Solving Behaviors
+339,2025,long,10.1145/3706468.3706523,Creating Artificial Students that Never Existed: Leveraging Large Language Models and CTGANs for Synthetic Data Generation
+340,2025,long,10.1145/3706468.3706524,Unlocking Insights: Investigating Student AI Tutor Interactions in a Large Introductory STEM Course
+341,2025,long,10.1145/3706468.3706527,Can AI grade your essays? A comparative analysis of large language models and teacher ratings in multidimensional essay scoring
+342,2025,long,10.1145/3706468.3706528,A Cross-Cultural Confusion Model for Detecting and Evaluating Students’ Confusion In a Large Classroom
+343,2025,long,10.1145/3706468.3706529,Generating Effective Distractors for Introductory Programming Challenges: LLMs vs Humans
+344,2025,long,10.1145/3706468.3706530,Does Multiple Choice Have a Future in the Age of Generative AI? A Posttest-only RCT
+345,2025,long,10.1145/3706468.3706531,Do Tutors Learn from Equity Training and Can Generative AI Assess It?
+346,2025,long,10.1145/3706468.3706534,The Effect of Sequential Transition of Self-Regulated Learning Processes on Performance: Insights from Ordered Network Analysis
+347,2025,long,10.1145/3706468.3706535,Algorithm Appreciation in Education: Educators Prefer Complex over Simple Algorithms
+348,2025,long,10.1145/3706468.3706538,Qualitative Parameter Triangulation: A Conceptual and Methodological Framework for Event-Based Temporal Models
+349,2025,long,10.1145/3706468.3706540,Bias or Insufficient Sample Size? Improving Reliable Estimation of Algorithmic Bias for Minority Groups
+350,2025,long,10.1145/3706468.3706541,From Data to Design: Integrating Learning Analytics into Educational Design for Effective Decision-Making: From Data to Design
+351,2025,long,10.1145/3706468.3706544,"Modifying AI, Enhancing Essays: How Active Engagement with Generative AI Boosts Writing Quality"
+352,2025,long,10.1145/3706468.3706545,Chatting with a Learning Analytics Dashboard: The Role of Generative AI Literacy on Learner Interaction with Conventional and Scaffolding Chatbots
+353,2025,long,10.1145/3706468.3706546,Can Synthetic Data be Fair and Private? A Comparative Study of Synthetic Data Generation and Fairness Algorithms
+354,2025,long,10.1145/3706468.3706548,Beyond Final Products: Multi-Dimensional Essay Scoring Using Keystroke Logs and Deep Learning
+355,2025,long,10.1145/3706468.3706549,Evolving the 4C/ID model through learning analytics approaches: Teaching and learning system design framework for supporting learners' complex problem-solving
+356,2025,long,10.1145/3706468.3706550,Atomic Learning Objectives and LLMs Labeling: A High-Resolution Approach for Physics Education
+357,2025,long,10.1145/3706468.3706552,Predicting Long-Term Student Outcomes from Short-Term EdTech Log Data
+358,2025,long,10.1145/3706468.3706556,ARCHIE: Exploring Language Learner Behaviors in LLM Chatbot-Supported Active Reading Log Data with Epistemic Network Analysis
+359,2025,long,10.1145/3706468.3706558,"""Can A Language Model Represent Math Strategies?"": Learning Math Strategies from Big Data using BERT"
+360,2025,long,10.1145/3706468.3706559,Turning Real-Time Analytics into Adaptive Scaffolds for Self-Regulated Learning Using Generative Artificial Intelligence
+361,2025,long,10.1145/3706468.3706560,The Relationship between Collaborative Problem-Solving Skills and Group-to-Individual Learning Transfer in a Game-based Learning Environment
+362,2025,long,10.1145/3706468.3706561,Analysis of exploratory behaviour: A step towards modelling of curiosity
+363,2025,long,10.1145/3706468.3706563,What's the Value of a Doctoral Consortium? Analysing a Decade of LAK DCs as a Community of Practice
+364,2025,long,10.1145/3706468.3706564,When the Prompt becomes the Codebook: Grounded Prompt Engineering (GROPROE) and its application to Belonging Analytics
+365,2025,long,10.1145/3706468.3706565,The Impact of Learning Design on the Mastery of Learning Outcomes in Higher Education
+366,2025,long,10.1145/3706468.3706567,Towards Fair and Privacy-Aware Transfer Learning for Educational Predictive Modeling: A Case Study on Retention Prediction in Community Colleges
+367,2025,long,10.1145/3706468.3706568,Soft Grades: A Calibrated and Accurate Method for Course-Grade Estimation that Expresses Uncertainty
+368,2025,long,10.1145/3706468.3706570,Pattern analysis of ambitious science talk between preservice teachers and AI-powered student agents
+369,2025,long,10.1145/3706468.3706571,Who Did What to Succeed? Individual Differences in Which Learning Behaviors Are Linked to Achievement
+370,2025,short,10.1145/3706468.3706469,The Effect of Different Support Strategies on Student Affect
+371,2025,short,10.1145/3706468.3706477,The Difficulty of Achieving High Precision with Low Base Rates for High-Stakes Intervention
+372,2025,short,10.1145/3706468.3706478,MORF: A Post-Mortem
+373,2025,short,10.1145/3706468.3706480,Providing Automated Feedback on Formative Science Assessments: Uses of Multimodal Large Language Models
+374,2025,short,10.1145/3706468.3706484,How Learner Control and Explainable Learning Analytics About Skill Mastery Shape Student Desires to Finish and Avoid Loss in Tutored Practice
+375,2025,short,10.1145/3706468.3706490,Applying IRT to Distinguish Between Human and Generative AI Responses to Multiple-Choice Assessments
+376,2025,short,10.1145/3706468.3706491,Self-service Teacher-facing Learning Analytics Dashboard with Large Language Models
+377,2025,short,10.1145/3706468.3706494,Feedback from Generative AI: Correlates of Student Engagement in Text Revision from 655 Classes from Primary and Secondary School
+378,2025,short,10.1145/3706468.3706498,ABROCA Distributions For Algorithmic Bias Assessment: Considerations Around Interpretation
+379,2025,short,10.1145/3706468.3706505,Does the Doer Effect Generalize To Non-WEIRD Populations? Toward Analytics in Radio and Phone-Based Learning
+380,2025,short,10.1145/3706468.3706506,Capturing The Temporal Dynamics of Learner Interactions In Moocs: A Comprehensive Approach With Longitudinal And Inferential Network Analysis
+381,2025,short,10.1145/3706468.3706512,A Dual-Method Examination of Nursing Students’ Teamwork in Simulation-Based Learning: Combining CORDTRA and Ordered Network Analysis to Reveal Patterns and Dynamics
+382,2025,short,10.1145/3706468.3706515,LLMs Performance in Answering Educational Questions in Brazilian Portuguese: A Preliminary Analysis on LLMs Potential to Support Diverse Educational Needs
+383,2025,short,10.1145/3706468.3706525,OpenMMLA: an IoT-based Multimodal Data Collection Toolkit for Learning Analytics
+384,2025,short,10.1145/3706468.3706526,That's What RoBERTa Said: Explainable Classification of Peer Feedback
+385,2025,short,10.1145/3706468.3706532,Exploring the Role of Teachable AI Agents’ Personality Traits in Shaping Student Interaction and Learning in Mathematics Education
+386,2025,short,10.1145/3706468.3706533,Configuring and Monitoring Students' Interactions with Generative AI Tools: Supporting Teacher Autonomy
+387,2025,short,10.1145/3706468.3706536,Exploring Human-AI Collaboration in Educational Contexts: Insights from Writing Analytics and Authorship Attribution
+388,2025,short,10.1145/3706468.3706537,Who Should Be My Tutor? Analyzing the Interactive Effects of Automated Text Personality Styles Between Middle School Students and a Mathematics Chatbot
+389,2025,short,10.1145/3706468.3706539,Bridging the Gender Gap: The Role of AI-Powered Math Story Creation in Learning Outcomes
+390,2025,short,10.1145/3706468.3706542,From Filling Gaps to Amplifying Strengths: Exploring an Asset-Based Approach to Learning Analytics
+391,2025,short,10.1145/3706468.3706543,Exploring Eye-tracking Features to Understand Students' Sensemaking of Learning Analytics Dashboards
+392,2025,short,10.1145/3706468.3706547,Understanding Collaborative Learning Processes and Outcomes Through Student Discourse Dynamics
+393,2025,short,10.1145/3706468.3706551,Exploring the Benefit of Customizing Feedback Interventions For Educators and Students With Offline Contextual Multi-Armed Bandits
+394,2025,short,10.1145/3706468.3706553,"VALA/AID: A Method for Rapid, Participatory Value-sensitive Learning Analytics and Artificial Intelligence Design"
+395,2025,short,10.1145/3706468.3706554,Usage and performance declines in a classroom-integrated digital learning software over the course of an academic year
+396,2025,short,10.1145/3706468.3706555,Multimodal learning analytics for game-based assessment of collaborative problem solving skills among young students
+397,2025,short,10.1145/3706468.3706557,Game Theoretic Models of Intangible Learning Data
+398,2025,short,10.1145/3706468.3706562,Not ALL Delay is Procrastination: Analyzing Subpatterns of Academic Delayers in Online Learning
+399,2025,short,10.1145/3706468.3706566,"A comparative study of rule-based, machine learning and large language model approaches in automated writing evaluation (AWE)"
+400,2025,short,10.1145/3706468.3706569,Do Actions Speak Louder Than Words? Unveiling Linguistic Patterns in Online Learning Communities Using Cross Recurrence Quantification Analysis
+401,2026,long,10.1145/3785022.3785023,Who is Socially Present? Gendered Patterns in Online Higher Education: Combining Manual Coding and Social Network Analysis for Equity in Learning
+402,2026,long,10.1145/3785022.3785024,"Who Benefits from Using Intelligent Tutoring Systems, and How Much Use is Optimal? Examining the Effects of School Socioeconomic Status and Intelligent Tutoring System Use on Student Mathematics Learning Outcomes in Australian High Schools"
+403,2026,long,10.1145/3785022.3785025,Understanding Gaming the System by Analyzing Self-Regulated Learning in Think-Aloud Protocols
+404,2026,long,10.1145/3785022.3785026,Cyclic Adaptive Private Synthesis for Sharing Real-World Data in Education
+405,2026,long,10.1145/3785022.3785028,"What Students Ask, How a Generative AI Assistant Responds: Exploring Higher Education Students’ Dialogues on Learning Analytics Feedback"
+406,2026,long,10.1145/3785022.3785029,The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Artificial Intelligence Course
+407,2026,long,10.1145/3785022.3785030,Do High-SES Students Better Overcome Early Difficulties? Testing the Compensatory Advantage Hypothesis in Online University Courses
+408,2026,long,10.1145/3785022.3785031,Automatic Short Answer Grading with LLMs: From Memorization to Reasoning
+409,2026,long,10.1145/3785022.3785032,"Practice as the Key to Success: Understanding the Role of Prior Knowledge, Affective States and Learning Resources in Computer Science Education"
+410,2026,long,10.1145/3785022.3785033,From Solo Graders to Assisted Annotation: Integrating LLM Suggestions into the Educational Data Creation Pipeline
+411,2026,long,10.1145/3785022.3785036,Measuring the Impact of Student Gaming Behaviors on Learner Modeling
+412,2026,long,10.1145/3785022.3785037,Detecting Doubt in Reflective Learning: A Learning Analytics Study with Large and Small Language Models
+413,2026,long,10.1145/3785022.3785038,Automated Assessment of Handwritten Math Problems: A Comparison of Prompting Strategies for Open and Closed-source LLMs
+414,2026,long,10.1145/3785022.3785039,Emotions in Action: How Students’ Regulatory Responses Shape Learning
+415,2026,long,10.1145/3785022.3785040,Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems
+416,2026,long,10.1145/3785022.3785041,Brief but Impactful: How Human Tutoring Interactions Shape Engagement in Online Learning
+417,2026,long,10.1145/3785022.3785045,Understanding and Supporting STEM Students Through Digital Nudging: Evidence-Based Requirements for Learning Analytics Interventions
+418,2026,long,10.1145/3785022.3785046,Investigating Student Interaction with Competency-Based CS Education
+419,2026,long,10.1145/3785022.3785048,Examining Student Interactions with a Pedagogical AI-Assistant for Essay Writing and their Impact on Students’ Writing Quality
+420,2026,long,10.1145/3785022.3785049,Modeling Collaborative Problem Solving Dynamics from Group Discourse: A Text-Mining Approach with Synergy Degree Model
+421,2026,long,10.1145/3785022.3785050,Early Warning Signals Appear Long Before Dropping Out: An Idiographic Approach Grounded in Complex Dynamic Systems Theory
+422,2026,long,10.1145/3785022.3785053,Scaffolding Reshapes Dialogic Engagement in Collaborative Problem Solving: Comparative Analysis of Two Approaches
+423,2026,long,10.1145/3785022.3785056,A Theory Driven Supervised Learning Approach For Math Skill Proficiency Prediction Using Assessment and Practice Data
+424,2026,long,10.1145/3785022.3785057,Toward Trait-Aware Learning Analytics
+425,2026,long,10.1145/3785022.3785059,Uncovering Students’ Inquiry Patterns in GenAI-Supported Clinical Practice: An Integration of Epistemic Network Analysis and Sequential Pattern Mining
+426,2026,long,10.1145/3785022.3785064,Are rubrics all you need? Towards rubric-based automatic short answer scoring via guided rubric-answer alignment
+427,2026,long,10.1145/3785022.3785065,Collaborative Dialogue Analysis for Productive Problem Solving
+428,2026,long,10.1145/3785022.3785066,Learner Data in Context: Students Would Share Grades and Text but Less So Logs and Video Data
+429,2026,long,10.1145/3785022.3785068,Consistent Performance in Adaptive Learning Technologies as a Measure of Self-Regulated Learning
+430,2026,long,10.1145/3785022.3785069,Teacher Characteristics Shape Engagement and Outcomes in Online Professional Learning Environments
+431,2026,long,10.1145/3785022.3785070,Enhancing LLM-Based Data Annotation with Error Decomposition
+432,2026,long,10.1145/3785022.3785071,Clusters to Validate Knowledge Components: Analysis of an Adaptive Clock Reading Game
+433,2026,long,10.1145/3785022.3785072,Beyond the tool: A two-case study of faculty engagement with curriculum analytics for actionable insights
+434,2026,long,10.1145/3785022.3785080,"Individual vs. Class-Performance Comparison: Impact of Frame of Reference on Students' Outcome Emotions of Pride, Disappointment, Relief, and Shame"
+435,2026,long,10.1145/3785022.3785081,Expanding Design Heuristics for Supporting Impasse-Driven Learning in a Puzzle Video Game Using a Problem-Solving Framework and Multimodal Network Models
+436,2026,long,10.1145/3785022.3785085,Modeling Longitudinal Student Pathways with Explainable Generative Models
+437,2026,long,10.1145/3785022.3785087,"Detect, Explain, Act: How Teachers Trust and Use an Explainable Real-Time Monitoring Dashboard to Detect Student Outliers in Class"
+438,2026,long,10.1145/3785022.3785088,How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures
+439,2026,long,10.1145/3785022.3785092,MedSimAI: Simulation and Formative Feedback Generation to Enhance Deliberate Practice in Medical Education
+440,2026,long,10.1145/3785022.3785093,Let Me Try Again: Examining Replay Behavior by Tracing Students' Latent Problem-Solving Pathways
+441,2026,long,10.1145/3785022.3785094,From Wandering to Collaboration: Discourse Patterns in Middle School Generative AI Use
+442,2026,long,10.1145/3785022.3785095,AI Annotation Orchestration: Evaluating LLM Verifiers to Improve the Quality of LLM Annotations in Learning Analytics
+443,2026,long,10.1145/3785022.3785096,Understanding and Modeling Math Strategy Use in Intelligent Tutoring Systems
+444,2026,long,10.1145/3785022.3785097,Scaling Teacher Professional Learning Through Automated Feedback: An Evaluation in K-12 Classrooms
+445,2026,long,10.1145/3785022.3785099,An Immediate And Retrospective Analysis Of Stability And Change: Examining Students' Emotion And Motivation Profiles In Response To Outcome-Presenting Learning Analytics Dashboards
+446,2026,long,10.1145/3785022.3785100,Generate-Then-Validate: A Novel Question Generation Approach Using Small Language Models
+447,2026,long,10.1145/3785022.3785104,Is Log-Traced Engagement Enough? Extending Reading Analytics With Trait-Level Flow and Reading Strategy Metrics
+448,2026,long,10.1145/3785022.3785105,Structuring versus Problematizing: How LLM-based Agents Scaffold Learning in Diagnostic Reasoning
+449,2026,long,10.1145/3785022.3785106,Data-Driven Evaluation of LLM-Based Ontology Concept Extraction from Programming Learning Content
+450,2026,long,10.1145/3785022.3785109,A Novel Approach to Evaluating the Effectiveness of Large Language Models for Multimodal Analysis of Embodied Learning in Classrooms
+451,2026,long,10.1145/3785022.3785111,Productive Discussion Moves in Groups Addressing Controversial Issues
+452,2026,long,10.1145/3785022.3785112,A Synergistic Framework for Cognitive Diagnosis with LLM-Empowered Data Augmentation
+453,2026,long,10.1145/3785022.3785113,Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback
+454,2026,long,10.1145/3785022.3785115,How Do Students Listen to Each Other When Solving Complex Problems?
+455,2026,long,10.1145/3785022.3785118,Capturing Professional Skill Development: A Curriculum Analytics Approach
+456,2026,long,10.1145/3785022.3785119,Automated Enrichment of Course Structure into Moodle logs: The Contribution of Context-Aware Structural Information to Advance Learning Analytics
+457,2026,long,10.1145/3785022.3785120,The Blind Spots in Automated Feedback Generation for Academic Writing
+458,2026,long,10.1145/3785022.3785122,"Development and Evaluation of a Dual-Expertise, Utterance-Level Framework for LLM-Based Science Classroom Discourse Analysis"
+459,2026,long,10.1145/3785022.3785124,LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
+460,2026,long,10.1145/3785022.3785126,Modeling Grammatical Hypothesis Testing in Young Learners: A Sequence-Based Learning Analytics Study of Morphosyntactic Reasoning in an Interactive Game
+461,2026,long,10.1145/3785022.3785127,Can Micro-Behaviours be used for Graph Comprehension Assessment?
+462,2026,long,10.1145/3785022.3785128,"Sticky Help, Bounded Effects: Session-by-Session Analytics of Teacher Interventions in K-12 Classrooms"
+463,2026,long,10.1145/3785022.3785129,Empowering Multimodal Learning Analytics using Agentic AI: A Comprehensive Platform for Simulation-based Clinical Training with Intelligent Assessment
+464,2026,long,10.1145/3785022.3785130,When LLMs Fall Short in Deductive Coding: Model Comparisons and Human–AI Collaboration Workflow Design
+465,2026,long,10.1145/3785022.3785131,"Fifteen Years of Learning Analytics Research: Topics, Trends, and Challenges"
+466,2026,long,10.1145/3785022.3785132,Exploring Students’ Cognitive Engagement with Generative Artificial Intelligence
+467,2026,short,10.1145/3785022.3785027,Robust Post-hoc Score Allocation in Exams
+468,2026,short,10.1145/3785022.3785034,From Diagnostics to Prediction: A Machine Learning Approach to Understanding Reading Development
+469,2026,short,10.1145/3785022.3785035,"AI Knows Best? The Paradox of Expertise, AI-Reliance, and Performance in Educational Tutoring Decision-Making Tasks"
+470,2026,short,10.1145/3785022.3785042,Disentangling Learning from Judgment: Representation Learning for Open Response Analytics
+471,2026,short,10.1145/3785022.3785043,Do All Roads Lead to AI Literacy? Clustering Behavioral Patterns and Examining Outcomes in an Online AI Literacy Module for Secondary School Students
+472,2026,short,10.1145/3785022.3785044,How can we analyze learners' thinking during their calculus inquiry based on their observed behavior and the logs of manipulating dynamic geometry?
+473,2026,short,10.1145/3785022.3785051,Talking the Talk: Linking Instructional Discourse Patterns to Student In-video Dropout and Learning Outcome
+474,2026,short,10.1145/3785022.3785052,Exploring Human–AI collaboration for formative feedback: Insights from a K–12 case study and implications for analytics
+475,2026,short,10.1145/3785022.3785054,GenAI Analytics and Pedagogical Configurations: Featuring New Generative AI Systems in Education
+476,2026,short,10.1145/3785022.3785055,Evaluating Large Language Model Feedback to Support Teacher Professional Vision: Prompting Strategies and Pre-service Teacher Engagement
+477,2026,short,10.1145/3785022.3785058,The Learning Analytics Value Chain
+478,2026,short,10.1145/3785022.3785060,Understanding Study Approaches in E-Book Logs and Their Relation to Metacognition and Performance
+479,2026,short,10.1145/3785022.3785061,Active Learning Beyond Borders: PEOE Enhancement of Explanatory Understanding in Japanese Undergraduates
+480,2026,short,10.1145/3785022.3785062,When Cognitive Offloading Masks Authentic Ability: Using GenAI-Driven Metacognitive Feedback to Support Valid Game-Based Assessment
+481,2026,short,10.1145/3785022.3785067,Prompting for Teachability: Designing Novice Personas in LLMs for Learning by Teaching Contexts
+482,2026,short,10.1145/3785022.3785073,"Embedding-Based Rankings of Educational Resources based on Learning Outcome Alignment: Benchmarking, Expert Validation, and Learner Performance"
+483,2026,short,10.1145/3785022.3785074,Evaluating AI-Generated Narrative Feedback on Nonverbal Communication in Student Presentations
+484,2026,short,10.1145/3785022.3785075,Changes in Coding Behavior and Performance Since the Introduction of LLMs
+485,2026,short,10.1145/3785022.3785076,Beyond the Numbers: Socio-Cultural Context as a Frame for Learning Analytics
+486,2026,short,10.1145/3785022.3785077,"How Pedagogical Agents’ Instructional, Cognitive, and Pastoral Conversational Strategies Interactively Shape Students’ Learning"
+487,2026,short,10.1145/3785022.3785078,Designing AI Teachable Agents with Personality: Supporting Student Emotions in Mathematics Learning
+488,2026,short,10.1145/3785022.3785082,The Effects of AI Feedback on College Students’ Reading and Writing Performance in an Intelligent Text Framework
+489,2026,short,10.1145/3785022.3785083,Using Large Language Models to Detect Socially Shared Regulation of Collaborative Learning
+490,2026,short,10.1145/3785022.3785084,Unpacking Co-Creation with AI: Understanding Students’ Creativity in a Game Design Course
+491,2026,short,10.1145/3785022.3785086,Unveiling Teaching Practices in Higher Education: Leveraging Open-Ended Student Comments in Learning Analytics
+492,2026,short,10.1145/3785022.3785089,Investigating Self-regulated Learning Sequences within a Generative AI-based Intelligent Tutoring System
+493,2026,short,10.1145/3785022.3785090,Linking Dashboard Elements and Retrospective Outcome Emotions in Dashboard Feedback: A Transmodal Analysis
+494,2026,short,10.1145/3785022.3785091,Learning Analytics for Assessment Preparation: Constructing Graphs to Guide Higher-Order Question Generation
+495,2026,short,10.1145/3785022.3785098,From Formal Learning to Professional Practice: Automated LLM-based Coding and Visualisation of Team Dialogue in in-situ Healthcare Simulation
+496,2026,short,10.1145/3785022.3785101,Disagreement as Data: Reasoning Trace Analytics in Multi-Agent Systems
+497,2026,short,10.1145/3785022.3785102,"What Shapes Learner Perceptions of LA Technologies? Demographics, Privacy Dispositions and Contexts"
+498,2026,short,10.1145/3785022.3785103,The Role of LLM-Powered Conversational Agents in Supporting Inquiry in a Narrative-Centered Learning Environment: A Learning Analytics Study
+499,2026,short,10.1145/3785022.3785107,Strengthening Course Transfer Pathways Using Graph-Theoretic Articulation Networks
+500,2026,short,10.1145/3785022.3785110,Modeling Programming Skills with Source Code Embeddings for Context-aware Exercise Recommendation
+501,2026,short,10.1145/3785022.3785114,Stochastic Simulation of AI Disclosure Policies: Fairness and Norm Internalization in Learning Analytics
+502,2026,short,10.1145/3785022.3785116,A Multimodal Analysis of Behavioral and Emotional Dynamics in AR-Supported Collaborative Inquiry
+503,2026,short,10.1145/3785022.3785117,From Intra-Unit Abort to Completion: Optimizing Engagement in Low-Resource Classrooms
+504,2026,short,10.1145/3785022.3785121,Read the Room or Lead the Room: Understanding Socio-Cognitive Dynamics in Human-AI Teaming
+505,2026,short,10.1145/3785022.3785123,Toward Just-in-Time Scaffolding: Predicting High-Risk Moments in iVR Speaking Tasks
+506,2026,short,10.1145/3785022.3785125,Multi-Method Triangulation in Idiographic Socio-Emotional Learning Analytics: A Case in Doctoral Education

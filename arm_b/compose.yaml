@@ -1,0 +1,11 @@
+# Template only; per-paper compose files are generated under artifacts/arm_b/sandbox/.
+# The image is intentionally the same frozen image as Arm A.
+services:
+  default:
+    image: "repro-sandbox:1"
+    build:
+      context: ../arm_a
+    init: true
+    command: tail -f /dev/null
+    cpus: 2.0
+    mem_limit: 8gb

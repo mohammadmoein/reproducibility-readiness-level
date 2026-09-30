@@ -1,0 +1,42 @@
+[project]
+name = "repro-cascade"
+version = "0.1.0"
+description = "Gated cascade for scalable reproducibility assessment of LAK papers"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aiosqlite>=0.22.1",
+    "bibtexparser>=1.4.4",
+    "click>=8.1",
+    "httpx2>=2.13",
+    "inspect-ai>=0.3.266",
+    "liteparse>=2.14.4",
+    "matplotlib>=3.11.1",
+    "numpy",
+    "openai>=2",
+    "pydantic>=2",
+    "pymupdf>=1.26",
+    "python-dotenv",
+    "rich>=14",
+    "scipy>=1.18.1",
+    "seaborn>=0.13.2",
+    "structlog>=26.1.0",
+    "textual>=6",
+    "tqdm>=4.70.0",
+]
+
+[project.scripts]
+lakdb = "lakdb.cli:main"
+
+[tool.uv]
+package = true
+
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["main", "screening", "dashboard", "completions", "agreement", "ara", "ara_analysis", "ara_bridge", "artifact", "artifact_resolver", "artifact_docs", "artifact_report", "environment", "ara_usage", "pricing", "r_analysis", "claim", "arm_a_runner", "arm_b_runner"]
+
+[tool.setuptools.packages.find]
+include = ["lakdb*", "arm_a*", "arm_b*"]
